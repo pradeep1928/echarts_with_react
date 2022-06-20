@@ -1,3 +1,9 @@
+# Echarts with react
+created tow charts 
+* Bar Chart - x-axis: Alcohol, y-axis: Malic Acid
+* Scatter Chart - x-axis: Color Intensity, y-axis: Hue
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
